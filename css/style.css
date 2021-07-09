@@ -1,0 +1,12 @@
+.click{
+	background-color: #e6a2a2;
+	padding: 30px;
+	font-size: 40px;
+	cursor: pointer;
+}
+.text{
+	background-color: #83beec;
+	padding: 20px;
+	font-size: 20px;
+	display: none;
+}
